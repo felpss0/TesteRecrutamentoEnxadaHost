@@ -1,0 +1,8 @@
+name: TesteDeRecrutamento
+version: '${version}'
+main: org.testerecrutamento.MainPlugin
+api-version: '1.21'
+commands:
+  sethome: { description: Define o local da casa }
+  home: { description: Teleporta voce para o local definido para a casa }
+windcharge: { description: Usa o projétil de vento }

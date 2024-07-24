@@ -1,0 +1,8 @@
+windcharge:
+  explosionPower: 6.0
+  addParticles: true
+  projectileSpeed: 2.0
+
+home:
+  cooldown: 1 # Cooldown em segundos
+  showParticles: true # Mostrar partículas ao teleportar
